@@ -11875,3 +11875,16 @@ html {
 .copyright {
   background-color: #1a252f;
 }
+
+.active{
+  text-decoration: underline !important;
+}
+
+.nav-bar{
+  text-decoration: none ;
+}
+
+.nav-bar-logo{
+  text-decoration: none;
+  color: #d3d3d4;
+}
